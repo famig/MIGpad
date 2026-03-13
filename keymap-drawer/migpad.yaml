@@ -1,0 +1,65 @@
+layout: {zmk_keyboard: migpad}
+layers:
+  '1':
+  - $$mdi:keyboard-esc$$
+  - AL CAL
+  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: KP NLCK, h: '2'}
+  - KP DIVIDE
+  - KP MULTIPLY
+  - KP MINUS
+  - KP 7
+  - KP 8
+  - KP 9
+  - KP 4
+  - KP 5
+  - KP 6
+  - KP PLUS
+  - KP 1
+  - KP 2
+  - KP 3
+  - KP 0
+  - KP DOT
+  - KP ENTER
+  '2':
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB TOG
+  - {type: held}
+  - RGB EFR
+  - RGB EFF
+  - RGB BRD
+  - RGB SPI
+  - RGB HUI
+  - RGB SAI
+  - RGB SPD
+  - RGB HUD
+  - RGB SAD
+  - RGB BRI
+  - {h: '1', s: '$$mdi:bluetooth-connect$$'}
+  - {h: '2', s: '$$mdi:bluetooth-connect$$'}
+  - {h: '3', s: '$$mdi:bluetooth-connect$$'}
+  - $$mdi:bluetooth-off$$
+  - BT CLR ALL
+  - {t: '$$mdi:toggle-switch$$', h: '$$mdi:bluetooth$$', s: '$$mdi:usb$$'}
+  '3':
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
