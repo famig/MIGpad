@@ -1,6 +1,0 @@
-if SHIELD_MIGPAD
-
-config ZMK_KEYBOARD_NAME
-    default "MIGpad"
-
-endif
