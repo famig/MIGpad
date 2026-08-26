@@ -3,7 +3,3 @@
 - 2025/6/26 增加有线蓝牙切换按键Fn+U/B/T
 - 2025/6/24 增加Zmk-Studio和RGB支持
 - 2025/6/12 主控为nrfmicro_13_52833，配列锐蚁F20
-  
-# 键位图
-
-<img src="keymap-drawer/migpad.svg" >
